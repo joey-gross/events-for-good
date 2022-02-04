@@ -9,7 +9,7 @@ events: [
           date: "January 28, 2022",
           time: "12:00",
           petsAllowed: true,
-          orangizer: "Kat Laydee",
+          orangizer: "Kat Laydee"
         },
         {
           id: 5928101,
@@ -20,7 +20,7 @@ events: [
           date: "January 28, 2022",
           time: "12:00",
           petsAllowed: true,
-          orangizer: "Kat Laydee",
+          orangizer: "Kat Laydee"
         },
         {
           id: 5928101,
@@ -31,7 +31,7 @@ events: [
           date: "January 28, 2022",
           time: "12:00",
           petsAllowed: true,
-          orangizer: "Kat Laydee",
-        },
-      ],
+          orangizer: "Kat Laydee"
+        }
+      ]
 }
